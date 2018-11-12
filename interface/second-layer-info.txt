@@ -1,0 +1,126 @@
+Home
+[System Description]
+The Mobile Health Systems was developed by the Government to support the work of Community Health Workers in the primary care.
+
+This system replaces the previous papers forms. It allows the Community Health Workers to collect, store and manage your data in much more efficient manner.
+
+The Community Health Workers as well as nurses and doctors can access your data to provide better and continued primary care. Your data is also used by the Family Health Strategy program, and it is sent to the government to support health promotion campaigns, research and statistics in public health and epidemiology.
+
+More info: www.productname.com/system-description
+
+
+[Health Surveys]
+Different health surveys are employed within the scope of the Family Health Strategy program. 
+
+Health surveys are done using different forms, for example:
+
+Form A - Housing Characteristics:
+Used to understanding your living conditions and house characteristics as well as public infrastructure, like sewage system. 
+
+Form B - Individual care:
+Demographic information and health status, covering any health conditions, chronic diseases, medication, and vaccinations.
+
+Form C - Dental care: 
+Oral and dental care information and previous or ongoing procedures.
+
+Form D - Collective activities: 
+Participation in health promotion campaigns that are planned for the entire community at once.
+
+Form E - Procedures: 
+Information about procedures that needed to be undertaken by the community health workers during the visits.
+
+Form F - Home visit: 
+Monthly follow-up visits to the family regardless of need of primary care.
+
+
+[Data Gathering]
+During the visitations the Community Health Workers will ask question about your health and collect the data. 
+
+Some examples of collected data are:
+
+Name, age, address, parents' names, family members and kinship
+
+Sexual orientation and gender identity
+
+Education and work situation
+
+Health conditions, chronic diseases, cancer, mental illness
+
+Smoking habit, hipertension, diabetes, leprosy, tuberculosis
+
+Food and nutrition
+
+
+[Your Privacy]
+Only authorised personnel has access to your data.
+
+They are part of the Primary Care Teams, including:
+- Community Health Workers
+- Nurses and doctors
+- Dentists
+- Health managers
+
+These people need access to your complete data, so we cannot provide anonymity.
+
+Your data might also be used by the government for research in public health, and it does not have to be anonymised.
+
+
+[Protecting Your Data]
+Our systems use strong security mechanisms to protect your data and respect your right to privacy.
+
+Your data is stored in the mobile phone in a secure fasshion, using encryption.
+
+Encrypted data is sent to our servers and only decrypted there. All data is consolidated in our database.
+
+Only authorised health workers have access to the system, and they are required to authenticate using their usernames and passwords. They also only have access to the data of families in their catchment area.
+
+All data is also securely transmitted, in encrypted form, to the national information system maintained by the Ministry of Health.
+
+
+[Data Use]
+All the data collected by the Community Health Workers is first stored in the mobile phone and then transmitted to the server at the health facility.
+
+At the health unit, Community Health Workers, nurses and doctors can have access to the data. Community Health Workers can also download previously sent data back to the mobile phone, making their daily activities more efficient.
+
+Your data is also integrated with the national database and used by the government for public health campaings, statistics and research.
+
+
+[Compulsory Purposes]
+These purposes do not rely on consent, because they are part of the government's legal obligations with its citizens in the performance of public tasks and in your vital interests (protect your health and integrity).
+
+Here we provide a list of the specified purposes for data collection along with a [short code] for reference.
+
+1. [Core Function] To enable the Primary Care Teams to carry out the core functions of the Family Health Strategy. 
+2. [Protecting Your Health] Protecting your vital and health interests.
+3. [Legally Required Data Retention] Complying with our legal obligations for record keeping.
+4. [Required by Law Enforcement] Complying with our legal obligations to provide the information to law enforcement or other regulatory/government bodies.
+
+Your data will NEVER be used for:
+[Marketing] Communicating with you about our other services you may be interested in. 
+[Marketing Third Parties] Communicating with you about the services of third parties you may be interested in. 
+[Disclosure for Marketing] Providing the information to third parties to enable them to communicate with you about their own services you may be interested in. 
+
+
+[Optional Purposes]
+These purposes will help improve the efficiency of the public health system, but they are optional and you can choose whether to allow or refuse such processing operations.
+
+Here we provide a list of the optional purposes for data collection along with a [short code] for reference.
+
+1. [Data Analysis at Municipality] To enable the generation of reports and data analysis for health managers at municipality-level.
+2. [Data Analysis at Nation] To enable the generation of reports and data analysis for health managers at national-level.
+3. [Link to Health Records] To enable that your citizen's health record at the health facilty to be updated based on the data collected within the Family Health Strategy.
+4. [Share Data for Health Research] To enable data sharing with qualified researchers that work in the ares of medical and public health. Their research is carried out inside universities and other instituions, as well as by the governmental research agencies. A qualified research needs to make a formal legal agreement and their research has to be approved by a research ethics committee, before any data is shared.
+
+
+[Up To You]
+You have the right to not provide information as well as to interrupt the participation in the program.
+
+During the health surveys you can always choose to not answer any of the questions, without having to explain yourself or any reasons for not wanting to provide the information.
+
+
+[Withdrawing]
+You have the right to withdraw your participation in the program at any time. You can revoke your consent of participation by contacting one of the Community Health Workers or talking to us at your nearest health facility.
+
+Once your consent has been revoked all the data processing within the scope of the Family Health Strategy will be stopped.
+
+You will be requested to give a new consent in case you change your mind and decide to participate in the program again.
